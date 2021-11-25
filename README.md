@@ -22,6 +22,15 @@ Telco Churn é um arquivo de dados hipotético que diz respeito aos esforços de
 ## Avaliação
 
 ### Jaccard Index
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](jaccard.PNG "jaccard index")
+
+### Confusion Matrix
+![alt text](cf.PNG "confusion matrix")
+
+### Classification report
+![alt text](precision.PNG "classification report")
+
+### Log Loss
+![alt text](logloss.PNG "logloss")
 
 
